@@ -1,0 +1,12 @@
+/home/lori/source/repos/secret-box-template/contracts/target/debug/deps/sec1-0b3e35943458d7a5.rmeta: /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/sec1-0.2.1/src/lib.rs /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/sec1-0.2.1/src/point.rs /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/sec1-0.2.1/src/error.rs /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/sec1-0.2.1/src/parameters.rs /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/sec1-0.2.1/src/private_key.rs /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/sec1-0.2.1/src/private_key/document.rs /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/sec1-0.2.1/src/traits.rs /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/sec1-0.2.1/src/../README.md
+
+/home/lori/source/repos/secret-box-template/contracts/target/debug/deps/sec1-0b3e35943458d7a5.d: /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/sec1-0.2.1/src/lib.rs /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/sec1-0.2.1/src/point.rs /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/sec1-0.2.1/src/error.rs /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/sec1-0.2.1/src/parameters.rs /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/sec1-0.2.1/src/private_key.rs /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/sec1-0.2.1/src/private_key/document.rs /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/sec1-0.2.1/src/traits.rs /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/sec1-0.2.1/src/../README.md
+
+/home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/sec1-0.2.1/src/lib.rs:
+/home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/sec1-0.2.1/src/point.rs:
+/home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/sec1-0.2.1/src/error.rs:
+/home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/sec1-0.2.1/src/parameters.rs:
+/home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/sec1-0.2.1/src/private_key.rs:
+/home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/sec1-0.2.1/src/private_key/document.rs:
+/home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/sec1-0.2.1/src/traits.rs:
+/home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/sec1-0.2.1/src/../README.md:

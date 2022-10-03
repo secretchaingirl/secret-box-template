@@ -1,0 +1,11 @@
+/home/lori/source/repos/secret-box-template/contracts/target/debug/deps/ed25519_zebra-5f5060a0b1b64b5f.rmeta: /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/lib.rs /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/batch.rs /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/error.rs /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/signature.rs /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/signing_key.rs /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/verification_key.rs /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/../README.md
+
+/home/lori/source/repos/secret-box-template/contracts/target/debug/deps/ed25519_zebra-5f5060a0b1b64b5f.d: /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/lib.rs /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/batch.rs /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/error.rs /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/signature.rs /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/signing_key.rs /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/verification_key.rs /home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/../README.md
+
+/home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/lib.rs:
+/home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/batch.rs:
+/home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/error.rs:
+/home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/signature.rs:
+/home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/signing_key.rs:
+/home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/verification_key.rs:
+/home/lori/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/../README.md:

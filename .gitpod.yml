@@ -41,6 +41,7 @@ tasks:
       gp sync-await secretbox-env
     command: |
       echo "Starting localsecret blockchain"
+      cd contracts
       make localsecret &
       gp ports await 9090
       gp sync-done blockchain
@@ -51,24 +52,26 @@ tasks:
     init: |
       gp sync-await secretbox-env
       echo "Compile secret box contract"
+      cd contracts
       make build
       echo "Build schema files"
       make schema
     command: |
       gp sync-await blockchain
       echo "Run unit tests"
+      cd contracts
       make unit-test
       echo "Deploy and instantiate secret contract to local blockchain"
-      gp env SECRET_BOX_ADDRESS=`scripts/create_secret_box.sh`
-      gp sync-done secretbox-contract
+      gp env SECRET_BOX_ADDRESS=`scripts/create_secret_box_contracts.sh`
+      gp sync-done secretbox-contracts
     openMode: split-right
 
   - name: Secret Box Frontend
     command: |
-      gp sync-await secretbox-contract
+      gp sync-await secretbox-contracts
+      gp open tutorial/guide.md
       cd app
       yarn dev
-      gp open tutorial/guide.md
     openMode: split-right
 
 # List the ports to expose. Learn more https://www.gitpod.io/docs/config-ports/
